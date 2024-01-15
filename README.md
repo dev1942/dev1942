@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dev1942/dev1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
- 03233216522 | ć shaheerahmed1942@gmail.com | ^ github.com/dev1942 | ] linkedin.com/in/ShaheerAhmed1942
-Personal P https://stackoverflow.com/users/18389233/ahmed
 - 👨‍💻 Currently working at CentricTech as Software Engineer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev1942&label=Profile%20views&color=0e75b6&style=flat" alt="Shaheer Ahmed" /> </p>
 <a href="https://www.linkedin.com/in/ShaheerAhmed1942/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/18389233/ahmed"><img src="https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> <a href="mailto:shaheerahmed1942@gmail.com"><img src="https://img.shields.io/badge/email-%23000.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a>
